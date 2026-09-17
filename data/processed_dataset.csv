@@ -1,0 +1,121 @@
+suburb,postcode,property_type,bedrooms,bathrooms,car_spaces,land_size_m2,floor_area_m2,year_built,sale_date,distance_to_cbd_km,agent_description,sale_price_aud,source_url,property_age,bed_bath_ratio,price_per_m2,log_sale_price
+Penrith,2750,House,4,4,1,690.0,180.0,2009,2023-01-08,57.5,"Quiet street, close to schools",1406000,https://www.domain.com.au/example-penrith-035,15,1.0,2037.6811594202898,14.156259351352746
+Parramatta,2150,House,4,3,1,483.0,166.0,1984,2023-01-09,26.7,Spacious living with natural light,1447000,https://www.domain.com.au/example-parramatta-015,40,1.3333333333333333,2995.8592132505178,14.185003005613622
+Penrith,2750,Townhouse,4,3,0,657.0,112.0,2001,2023-01-26,54.2,"North-facing aspect, excellent light",1224000,https://www.domain.com.au/example-penrith-030,23,1.3333333333333333,1863.013698630137,14.017634742054408
+Parramatta,2150,House,3,2,0,414.0,226.0,2013,2023-02-01,27.0,"Original condition, great potential",1248000,https://www.domain.com.au/example-parramatta-016,11,1.5,3014.4927536231885,14.03705282791151
+Penrith,2750,House,4,3,0,811.0,116.0,2021,2023-02-10,50.4,Charming character home,1567000,https://www.domain.com.au/example-penrith-004,3,1.3333333333333333,1932.1824907521577,14.264673521338159
+Penrith,2750,House,3,3,0,837.0,158.0,1991,2023-02-14,56.3,"Premium location, walk to transport",1370000,https://www.domain.com.au/example-penrith-013,33,1.0,1636.7980884109916,14.130321297804308
+Surry Hills,2010,Unit,1,1,1,,122.0,1990,2023-02-17,3.5,"Original condition, great potential",1221000,https://www.domain.com.au/example-surry-hills-020,34,1.0,,14.015180753092842
+Parramatta,2150,House,2,1,1,545.0,108.0,2018,2023-02-21,23.2,"Quiet street, close to schools",1336000,https://www.domain.com.au/example-parramatta-021,6,2.0,2451.376146788991,14.105190633078728
+Parramatta,2150,House,2,2,0,637.0,108.0,1973,2023-02-26,24.3,Spacious living with natural light,1282000,https://www.domain.com.au/example-parramatta-029,51,1.0,2012.5588697017267,14.063931916462753
+Penrith,2750,House,2,1,1,702.0,277.0,2003,2023-02-28,56.5,Charming character home,1166000,https://www.domain.com.au/example-penrith-023,21,2.0,1660.968660968661,13.969089645892575
+Parramatta,2150,House,5,5,1,363.0,122.0,1985,2023-03-05,24.8,Solid brick construction,1519000,https://www.domain.com.au/example-parramatta-012,39,1.0,4184.573002754821,14.233562781577909
+Penrith,2750,House,2,2,0,838.0,263.0,2015,2023-03-18,57.9,Solid brick construction,1221000,https://www.domain.com.au/example-penrith-039,9,1.0,1457.0405727923628,14.015180753092842
+Penrith,2750,House,5,5,2,486.0,196.0,2012,2023-03-30,50.0,Solid brick construction,1505000,https://www.domain.com.au/example-penrith-026,12,1.0,3096.707818930041,14.224303456165114
+Parramatta,2150,House,4,3,0,546.0,126.0,1974,2023-04-05,25.3,"Premium location, walk to transport",1251000,https://www.domain.com.au/example-parramatta-009,50,1.3333333333333333,2291.2087912087914,14.039453789449048
+Parramatta,2150,House,4,3,2,497.0,190.0,2009,2023-04-12,23.5,Architect designed with quality fixtures,1413000,https://www.domain.com.au/example-parramatta-010,15,1.3333333333333333,2843.0583501006035,14.161225661666665
+Parramatta,2150,Townhouse,2,1,2,612.0,172.0,2015,2023-04-13,26.9,Charming character home,1305000,https://www.domain.com.au/example-parramatta-013,9,2.0,2132.3529411764707,14.081713598738931
+Parramatta,2150,House,3,3,1,479.0,146.0,2015,2023-04-15,23.0,"Premium location, walk to transport",1494000,https://www.domain.com.au/example-parramatta-039,9,1.0,3118.997912317328,14.2169676446749
+Surry Hills,2010,Unit,4,4,2,,69.0,2018,2023-04-24,2.8,Spacious living with natural light,1030000,https://www.domain.com.au/example-surry-hills-038,6,1.0,,13.845069360205818
+Surry Hills,2010,Unit,3,3,2,,59.0,1986,2023-05-12,3.2,"As-is, investor special",1076000,https://www.domain.com.au/example-surry-hills-018,38,1.0,,13.888761019703868
+Surry Hills,2010,Unit,3,2,2,,135.0,1976,2023-05-13,2.6,Freshly painted and move-in ready,801000,https://www.domain.com.au/example-surry-hills-025,48,1.5,,13.593616226050496
+Surry Hills,2010,Townhouse,3,3,2,,87.0,1988,2023-05-14,3.8,Architect designed with quality fixtures,1364000,https://www.domain.com.au/example-surry-hills-002,36,1.0,,14.125932117385544
+Penrith,2750,House,3,2,0,732.0,252.0,1996,2023-05-19,54.8,Stunning renovation with modern finishes,1348000,https://www.domain.com.au/example-penrith-028,28,1.5,1841.5300546448088,14.11413257045439
+Penrith,2750,House,2,1,1,630.0,231.0,1986,2023-05-20,50.4,Freshly painted and move-in ready,1061000,https://www.domain.com.au/example-penrith-020,38,2.0,1684.126984126984,13.87472241759612
+Surry Hills,2010,Townhouse,3,3,1,,114.0,2014,2023-05-28,4.5,"Original condition, great potential",1294000,https://www.domain.com.au/example-surry-hills-001,10,1.0,,14.073248754042982
+Penrith,2750,House,4,4,2,665.0,236.0,2021,2023-06-07,55.2,"Premium location, walk to transport",1440000,https://www.domain.com.au/example-penrith-012,3,1.0,2165.4135338345864,14.180153671552183
+Surry Hills,2010,House,1,1,0,,131.0,2007,2023-06-13,3.5,Architect designed with quality fixtures,1291000,https://www.domain.com.au/example-surry-hills-026,17,1.0,,14.07092766982878
+Parramatta,2150,House,3,2,2,637.0,235.0,1974,2023-06-25,26.2,Solid brick construction,1412000,https://www.domain.com.au/example-parramatta-002,50,1.5,2216.640502354788,14.160517697035324
+Surry Hills,2010,Townhouse,2,1,2,,80.0,1984,2023-06-25,2.8,Rare offering in tightly held street,1131000,https://www.domain.com.au/example-surry-hills-007,40,2.0,,13.938612755098257
+Penrith,2750,Townhouse,5,5,2,632.0,276.0,2024,2023-06-26,56.3,Contemporary design throughout,1532000,https://www.domain.com.au/example-penrith-003,0,1.0,2424.0506329113923,14.242084629282674
+Parramatta,2150,Townhouse,2,2,1,360.0,127.0,1992,2023-06-28,23.2,Architect designed with quality fixtures,896000,https://www.domain.com.au/example-parramatta-034,32,1.0,2488.8888888888887,13.705695691957068
+Penrith,2750,House,3,3,0,641.0,273.0,1986,2023-06-28,54.0,"Quiet street, close to schools",1097000,https://www.domain.com.au/example-penrith-038,38,1.0,1711.3884555382215,13.908089739257367
+Penrith,2750,House,3,3,0,433.0,187.0,1994,2023-07-12,52.5,"As-is, investor special",1069000,https://www.domain.com.au/example-penrith-016,30,1.0,2468.822170900693,13.882234190007182
+Surry Hills,2010,House,2,1,1,,137.0,1976,2023-07-12,3.9,"North-facing aspect, excellent light",968000,https://www.domain.com.au/example-surry-hills-015,48,2.0,,13.782987366258714
+Parramatta,2150,Townhouse,4,3,0,501.0,178.0,2015,2023-07-16,24.3,"North-facing aspect, excellent light",1350000,https://www.domain.com.au/example-parramatta-028,9,1.3333333333333333,2694.6107784431138,14.115615150414612
+Parramatta,2150,House,2,2,2,497.0,113.0,1998,2023-07-16,26.4,Renovated kitchen and bathrooms,1264000,https://www.domain.com.au/example-parramatta-035,26,1.0,2543.2595573440644,14.049791853688939
+Surry Hills,2010,Unit,4,4,0,,129.0,2001,2023-07-20,3.0,Contemporary design throughout,997000,https://www.domain.com.au/example-surry-hills-036,23,1.0,,13.812506048943975
+Penrith,2750,House,3,3,1,401.0,196.0,2019,2023-07-20,52.7,"As-is, investor special",1181000,https://www.domain.com.au/example-penrith-018,5,1.0,2945.137157107232,13.981872095179499
+Surry Hills,2010,Unit,4,3,2,,115.0,2001,2023-07-22,3.4,"North-facing aspect, excellent light",1050000,https://www.domain.com.au/example-surry-hills-008,23,1.3333333333333333,,13.864300722133706
+Surry Hills,2010,Unit,2,1,0,,67.0,2016,2023-08-09,2.7,"Premium location, walk to transport",895000,https://www.domain.com.au/example-surry-hills-022,8,2.0,,13.704578997256993
+Parramatta,2150,House,4,3,2,502.0,236.0,2011,2023-08-11,26.4,"Premium location, walk to transport",1416000,https://www.domain.com.au/example-parramatta-037,13,1.3333333333333333,2820.7171314741036,14.163346553235803
+Penrith,2750,House,3,3,1,466.0,138.0,2000,2023-08-13,52.7,Rare offering in tightly held street,1174000,https://www.domain.com.au/example-penrith-036,24,1.0,2519.31330472103,13.975927279370179
+Surry Hills,2010,Unit,1,1,2,,120.0,2005,2023-08-23,4.3,"Original condition, great potential",677000,https://www.domain.com.au/example-surry-hills-023,19,1.0,,13.425426551894413
+Surry Hills,2010,Townhouse,4,3,1,,124.0,1985,2023-08-23,2.5,Freshly painted and move-in ready,1250000,https://www.domain.com.au/example-surry-hills-012,39,1.3333333333333333,,14.038654109278484
+Surry Hills,2010,Unit,1,1,2,,58.0,1979,2023-09-12,2.9,Contemporary design throughout,764000,https://www.domain.com.au/example-surry-hills-010,45,1.0,,13.546323068148657
+Parramatta,2150,House,3,3,1,390.0,186.0,1993,2023-09-14,25.8,"Premium location, walk to transport",1256000,https://www.domain.com.au/example-parramatta-026,31,1.0,3220.5128205128203,14.04344262601028
+Penrith,2750,Unit,2,2,1,124.0,121.0,1990,2023-09-14,50.1,Renovated kitchen and bathrooms,476000,https://www.domain.com.au/example-penrith-010,34,1.0,3838.7096774193546,13.073173133213556
+Penrith,2750,House,5,4,1,741.0,135.0,2000,2023-09-20,51.4,Solid brick construction,1724000,https://www.domain.com.au/example-penrith-031,24,1.25,2326.5856950067478,14.360157730205776
+Penrith,2750,House,5,4,1,833.0,236.0,2015,2023-10-15,50.4,"Distressed sale, priced to move",1737000,https://www.domain.com.au/example-penrith-005,9,1.25,2085.234093637455,14.367670045223242
+Surry Hills,2010,Unit,3,2,2,,137.0,2006,2023-10-28,3.2,Spacious living with natural light,1130000,https://www.domain.com.au/example-surry-hills-005,18,1.5,,13.937728190688523
+Parramatta,2150,House,2,1,2,631.0,228.0,1970,2023-10-31,23.6,Charming character home,1194000,https://www.domain.com.au/example-parramatta-030,54,2.0,1892.2345483359748,13.992819572934684
+Penrith,2750,Unit,4,3,1,188.0,260.0,1990,2023-10-31,55.0,"Premium location, walk to transport",703000,https://www.domain.com.au/example-penrith-027,34,1.3333333333333333,3739.3617021276596,13.463112170792803
+Parramatta,2150,House,4,4,1,698.0,216.0,2016,2023-11-07,25.8,Spacious living with natural light,1628000,https://www.domain.com.au/example-parramatta-031,8,1.0,2332.378223495702,14.302862825544622
+Surry Hills,2010,Unit,3,3,0,,60.0,1971,2023-11-10,3.9,"Premium location, walk to transport",1003000,https://www.domain.com.au/example-surry-hills-039,53,1.0,,13.818506066944073
+Surry Hills,2010,Townhouse,1,1,0,,66.0,2006,2023-11-14,4.4,"Original condition, great potential",925000,https://www.domain.com.au/example-surry-hills-031,18,1.0,,13.737549016494562
+Surry Hills,2010,Unit,4,3,0,,98.0,2021,2023-11-14,2.5,Freshly painted and move-in ready,1396000,https://www.domain.com.au/example-surry-hills-029,3,1.3333333333333333,,14.149121562304455
+Parramatta,2150,Unit,4,4,2,176.0,189.0,2016,2023-11-22,26.2,"North-facing aspect, excellent light",917000,https://www.domain.com.au/example-parramatta-008,8,1.0,5210.227272727273,13.728862751238601
+Penrith,2750,House,4,3,2,442.0,168.0,1992,2023-11-25,56.5,Rare offering in tightly held street,1264000,https://www.domain.com.au/example-penrith-008,32,1.3333333333333333,2859.7285067873304,14.049791853688939
+Parramatta,2150,House,4,3,1,552.0,228.0,2006,2023-11-25,25.9,Freshly painted and move-in ready,1483000,https://www.domain.com.au/example-parramatta-020,18,1.3333333333333333,2686.5942028985505,14.209577621120069
+Parramatta,2150,Townhouse,4,4,2,312.0,136.0,2013,2023-11-28,26.1,Freshly painted and move-in ready,1365000,https://www.domain.com.au/example-parramatta-017,11,1.0,4375.0,14.126664986601197
+Penrith,2750,House,4,3,1,827.0,215.0,1985,2023-12-01,56.2,Freshly painted and move-in ready,1395000,https://www.domain.com.au/example-penrith-022,39,1.3333333333333333,1686.819830713422,14.148404973237604
+Surry Hills,2010,Unit,1,1,1,,126.0,1983,2023-12-03,3.1,"Distressed sale, priced to move",929000,https://www.domain.com.au/example-surry-hills-024,41,1.0,,13.741864017795976
+Parramatta,2150,House,5,4,1,384.0,179.0,1970,2023-12-08,23.7,Freshly painted and move-in ready,1553000,https://www.domain.com.au/example-parramatta-032,54,1.25,4044.2708333333335,14.255699102130825
+Surry Hills,2010,Townhouse,4,3,2,,61.0,1966,2023-12-14,2.8,"Premium location, walk to transport",1484000,https://www.domain.com.au/example-surry-hills-037,58,1.3333333333333333,,14.210251702709463
+Parramatta,2150,Unit,3,3,0,156.0,118.0,2011,2023-12-16,25.7,"Premium location, walk to transport",888000,https://www.domain.com.au/example-parramatta-014,13,1.0,5692.307692307692,13.696727021974308
+Penrith,2750,House,2,2,1,841.0,157.0,2015,2023-12-16,51.5,Renovated kitchen and bathrooms,1358000,https://www.domain.com.au/example-penrith-037,9,1.0,1614.74435196195,14.121523587100778
+Parramatta,2150,Unit,5,4,0,199.0,121.0,2011,2024-01-03,24.6,Contemporary design throughout,1240000,https://www.domain.com.au/example-parramatta-033,13,1.25,6231.155778894472,14.03062193758122
+Penrith,2750,House,5,5,1,880.0,238.0,2001,2024-01-03,52.3,"Premium location, walk to transport",1785000,https://www.domain.com.au/example-penrith-011,23,1.0,2028.409090909091,14.394928973195876
+Surry Hills,2010,Unit,1,1,1,,136.0,2001,2024-01-16,4.3,Spacious living with natural light,801000,https://www.domain.com.au/example-surry-hills-032,23,1.0,,13.593616226050496
+Penrith,2750,House,2,1,1,657.0,225.0,1985,2024-01-23,53.2,Stunning renovation with modern finishes,1030000,https://www.domain.com.au/example-penrith-006,39,2.0,1567.7321156773212,13.845069360205818
+Parramatta,2150,Townhouse,4,4,0,520.0,165.0,2008,2024-01-23,24.4,"Quiet street, close to schools",1482000,https://www.domain.com.au/example-parramatta-027,16,1.0,2850.0,14.20890308483817
+Parramatta,2150,Townhouse,3,3,0,421.0,187.0,2016,2024-01-28,25.6,Rare offering in tightly held street,1364000,https://www.domain.com.au/example-parramatta-023,8,1.0,3239.9049881235155,14.125932117385544
+Surry Hills,2010,Unit,4,3,2,,127.0,2015,2024-01-28,2.9,Stunning renovation with modern finishes,1574000,https://www.domain.com.au/example-surry-hills-040,9,1.3333333333333333,,14.269130707959485
+Surry Hills,2010,Unit,2,2,2,,74.0,1989,2024-02-17,3.4,Rare offering in tightly held street,998000,https://www.domain.com.au/example-surry-hills-006,35,1.0,,13.813508555293602
+Parramatta,2150,Townhouse,3,3,1,373.0,247.0,1974,2024-03-08,26.1,Contemporary design throughout,1074000,https://www.domain.com.au/example-parramatta-022,50,1.0,2879.356568364611,13.886900554050946
+Parramatta,2150,Townhouse,2,2,0,491.0,163.0,1976,2024-03-17,24.5,Renovated kitchen and bathrooms,1160000,https://www.domain.com.au/example-parramatta-004,48,1.0,2362.5254582484727,13.963930563082547
+Parramatta,2150,House,5,4,1,459.0,238.0,1975,2024-04-04,23.7,"Quiet street, close to schools",1636000,https://www.domain.com.au/example-parramatta-038,49,1.25,3564.2701525054467,14.307764796144829
+Parramatta,2150,House,4,3,1,353.0,192.0,2012,2024-04-10,25.9,"Original condition, great potential",1477000,https://www.domain.com.au/example-parramatta-007,12,1.3333333333333333,4184.1359773371105,14.205523561513516
+Penrith,2750,Unit,2,1,0,168.0,237.0,1996,2024-04-10,51.0,Charming character home,452000,https://www.domain.com.au/example-penrith-002,28,2.0,2690.4761904761904,13.021437458814368
+Penrith,2750,Townhouse,5,4,0,635.0,235.0,1993,2024-04-16,53.0,Architect designed with quality fixtures,1351000,https://www.domain.com.au/example-penrith-032,31,1.25,2127.5590551181103,14.116355616942336
+Surry Hills,2010,Unit,2,1,0,,116.0,2007,2024-04-29,3.8,Contemporary design throughout,1154000,https://www.domain.com.au/example-surry-hills-017,17,2.0,,13.958744726050181
+Parramatta,2150,House,3,3,0,419.0,242.0,2003,2024-05-05,24.9,Architect designed with quality fixtures,1461000,https://www.domain.com.au/example-parramatta-005,21,1.0,3486.873508353222,14.194631690732837
+Penrith,2750,House,5,5,2,737.0,248.0,2024,2024-05-05,56.3,Architect designed with quality fixtures,1657000,https://www.domain.com.au/example-penrith-014,0,1.0,2248.303934871099,14.3205192964087
+Surry Hills,2010,Unit,1,1,1,,94.0,2016,2024-05-29,3.1,Renovated kitchen and bathrooms,916000,https://www.domain.com.au/example-surry-hills-016,8,1.0,,13.727771643656267
+Penrith,2750,Unit,2,2,2,84.0,129.0,1992,2024-05-31,51.9,"Quiet street, close to schools",568000,https://www.domain.com.au/example-penrith-021,32,1.0,6761.9047619047615,13.249876697703288
+Parramatta,2150,House,3,2,2,610.0,201.0,1990,2024-06-18,26.6,Charming character home,1433000,https://www.domain.com.au/example-parramatta-011,34,1.5,2349.1803278688526,14.175280706810309
+Surry Hills,2010,Townhouse,2,1,1,,63.0,1983,2024-06-22,3.0,"North-facing aspect, excellent light",860000,https://www.domain.com.au/example-surry-hills-027,41,2.0,,13.664687668229691
+Parramatta,2150,Townhouse,3,2,2,323.0,155.0,2007,2024-06-27,24.4,"Premium location, walk to transport",1166000,https://www.domain.com.au/example-parramatta-036,17,1.5,3609.907120743034,13.969089645892575
+Surry Hills,2010,Unit,1,1,0,,68.0,2012,2024-06-29,3.7,Freshly painted and move-in ready,712000,https://www.domain.com.au/example-surry-hills-028,12,1.0,,13.475833190394113
+Surry Hills,2010,Unit,1,1,2,,67.0,1966,2024-07-01,4.4,Contemporary design throughout,1005000,https://www.domain.com.au/example-surry-hills-033,58,1.0,,13.820498099475314
+Penrith,2750,Townhouse,5,5,1,677.0,177.0,2009,2024-07-03,55.8,Rare offering in tightly held street,1517000,https://www.domain.com.au/example-penrith-029,15,1.0,2240.768094534712,14.23224525833067
+Surry Hills,2010,Unit,1,1,1,,121.0,2016,2024-07-09,3.4,Freshly painted and move-in ready,931000,https://www.domain.com.au/example-surry-hills-004,8,1.0,,13.744014556259204
+Parramatta,2150,House,5,4,1,622.0,180.0,2001,2024-07-14,24.2,"Quiet street, close to schools",1867000,https://www.domain.com.au/example-parramatta-006,23,1.25,3001.6077170418007,14.43984342252386
+Penrith,2750,Townhouse,4,3,1,685.0,128.0,2016,2024-07-23,56.9,Architect designed with quality fixtures,1234000,https://www.domain.com.au/example-penrith-033,8,1.3333333333333333,1801.4598540145985,14.02577148344747
+Penrith,2750,Unit,4,3,1,94.0,235.0,2019,2024-08-14,54.4,Contemporary design throughout,744000,https://www.domain.com.au/example-penrith-001,5,1.3333333333333333,7914.893617021276,13.51979631381523
+Penrith,2750,House,3,3,2,676.0,126.0,1997,2024-08-19,54.9,"Distressed sale, priced to move",1241000,https://www.domain.com.au/example-penrith-040,27,1.0,1835.7988165680474,14.031428064186745
+Parramatta,2150,Unit,3,2,2,81.0,108.0,1971,2024-08-22,26.2,"Quiet street, close to schools",550000,https://www.domain.com.au/example-parramatta-018,53,1.5,6790.123456790124,13.217673557208654
+Penrith,2750,Townhouse,2,1,0,607.0,164.0,1993,2024-08-24,50.2,"Original condition, great potential",866000,https://www.domain.com.au/example-penrith-024,31,2.0,1426.6886326194399,13.671640187544572
+Penrith,2750,House,4,4,1,754.0,236.0,2014,2024-08-26,57.1,Spacious living with natural light,1602000,https://www.domain.com.au/example-penrith-025,10,1.0,2124.6684350132628,14.286763406610442
+Parramatta,2150,House,5,4,1,465.0,161.0,2001,2024-09-06,25.4,Renovated kitchen and bathrooms,1519000,https://www.domain.com.au/example-parramatta-025,23,1.25,3266.6666666666665,14.233562781577909
+Parramatta,2150,Unit,2,2,2,191.0,216.0,2009,2024-09-10,26.4,Rare offering in tightly held street,773000,https://www.domain.com.au/example-parramatta-019,15,1.0,4047.1204188481674,13.558034327569558
+Surry Hills,2010,House,3,2,1,,122.0,1989,2024-09-11,2.7,Stunning renovation with modern finishes,1199000,https://www.domain.com.au/example-surry-hills-034,35,1.5,,13.996998434009651
+Penrith,2750,House,5,5,1,687.0,280.0,1990,2024-09-17,54.8,Rare offering in tightly held street,1562000,https://www.domain.com.au/example-penrith-009,34,1.0,2273.6535662299852,14.261477609381767
+Surry Hills,2010,Unit,1,1,1,,95.0,2002,2024-09-17,4.0,"Premium location, walk to transport",861000,https://www.domain.com.au/example-surry-hills-009,22,1.0,,13.665849783409868
+Surry Hills,2010,Unit,2,2,0,,60.0,1994,2024-09-19,3.8,"Distressed sale, priced to move",904000,https://www.domain.com.au/example-surry-hills-003,30,1.0,,13.714584639374314
+Penrith,2750,House,3,3,1,574.0,255.0,2019,2024-10-21,54.7,Spacious living with natural light,1243000,https://www.domain.com.au/example-penrith-007,5,1.0,2165.5052264808364,14.033038370492848
+Penrith,2750,Townhouse,3,2,1,561.0,151.0,1995,2024-10-30,55.5,"As-is, investor special",1109000,https://www.domain.com.au/example-penrith-019,29,1.5,1976.8270944741532,13.918969266332503
+Surry Hills,2010,House,1,1,2,,79.0,1963,2024-11-01,3.8,Spacious living with natural light,899000,https://www.domain.com.au/example-surry-hills-011,61,1.0,,13.709038313453757
+Parramatta,2150,House,4,3,2,320.0,156.0,1990,2024-11-07,23.4,"As-is, investor special",1451000,https://www.domain.com.au/example-parramatta-001,34,1.3333333333333333,4534.375,14.187763531866326
+Surry Hills,2010,Unit,1,1,2,,98.0,1967,2024-11-09,3.7,Rare offering in tightly held street,629000,https://www.domain.com.au/example-surry-hills-030,57,1.0,,13.351886535682578
+Surry Hills,2010,Townhouse,2,2,1,,107.0,1993,2024-11-13,3.7,Architect designed with quality fixtures,1018000,https://www.domain.com.au/example-surry-hills-035,31,1.0,,13.833350476092605
+Penrith,2750,House,3,3,1,878.0,197.0,2011,2024-11-14,50.3,Contemporary design throughout,1418000,https://www.domain.com.au/example-penrith-015,13,1.0,1615.0341685649203,14.16475798607421
+Surry Hills,2010,Townhouse,3,3,2,,98.0,1970,2024-11-16,3.9,Freshly painted and move-in ready,1244000,https://www.domain.com.au/example-surry-hills-013,54,1.0,,14.033842552281262
+Surry Hills,2010,House,1,1,1,,78.0,1989,2024-11-28,3.5,Spacious living with natural light,963000,https://www.domain.com.au/example-surry-hills-021,35,1.0,,13.777808690780263
+Surry Hills,2010,Unit,1,1,2,,86.0,1999,2024-12-02,2.7,"Original condition, great potential",704000,https://www.domain.com.au/example-surry-hills-014,25,1.0,,13.46453363514018
+Parramatta,2150,Townhouse,4,3,2,514.0,177.0,1976,2024-12-07,24.9,"Distressed sale, priced to move",1293000,https://www.domain.com.au/example-parramatta-003,48,1.3333333333333333,2515.5642023346304,14.072475657753994
+Parramatta,2150,House,3,2,2,490.0,118.0,1989,2024-12-12,24.1,Freshly painted and move-in ready,1434000,https://www.domain.com.au/example-parramatta-024,35,1.5,2926.530612244898,14.175978300141702
+Penrith,2750,House,4,4,2,749.0,145.0,1987,2024-12-15,53.2,Spacious living with natural light,1515000,https://www.domain.com.au/example-penrith-017,37,1.0,2022.6969292389854,14.230925996925606
+Parramatta,2150,Townhouse,4,3,2,548.0,172.0,2018,2024-12-20,26.6,"North-facing aspect, excellent light",1225000,https://www.domain.com.au/example-parramatta-040,6,1.3333333333333333,2235.401459854015,14.018451401960965
+Penrith,2750,House,2,2,1,412.0,276.0,2014,2024-12-23,55.8,Charming character home,940000,https://www.domain.com.au/example-penrith-034,10,1.0,2281.5533980582522,13.753635154246187
+Surry Hills,2010,Unit,1,1,2,,134.0,1970,2024-12-24,3.2,"Premium location, walk to transport",854000,https://www.domain.com.au/example-surry-hills-019,54,1.0,,13.657686472770706
